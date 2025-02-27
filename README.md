@@ -1,6 +1,6 @@
 # 487-sarcasm-detection
 ## Overview  
-I'm working on sarcasm detection using machine learning. The dataset comes from [Kaggle](https://www.kaggle.com/datasets/nikhiljohnk/tweets-with-sarcasm-and-irony/data). I tested a few models and built a simple UI to check sarcasm, but the detection isn't great yet.  
+I'm working on sarcasm detection using machine learning. The dataset comes from [Kaggle](https://www.kaggle.com/datasets/nikhiljohnk/tweets-with-sarcasm-and-irony/data) and [Kaggle](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection). I tested a few models and built a simple UI to check sarcasm, but the detection isn't great yet.  
 
 ## What I Did  
 - Used **Logistic Regression**, **SVM**, and **TF-IDF** for sarcasm classification.  
@@ -12,6 +12,6 @@ I'm working on sarcasm detection using machine learning. The dataset comes from 
 - Many sarcastic tweets get misclassified as non-sarcastic.  
 
 ## Next Steps  
-- Try **Transformer models** like **BERT** or **RoBERTa**.  
+- Try other **deep learning models**. 
 - Improve feature extraction for better sarcasm detection.  
 - Maybe add context-aware analysis.  
